@@ -22,6 +22,11 @@ a {
     margin-left: 40px;
 }
 
+/*nav bar opacity*/
+.navbar {
+    background-color: rgba(40, 39, 46, 0.6)!important;
+  }
+
 
 /*body and image for about page*/
 .media {
@@ -76,6 +81,8 @@ form {
     color: steelblue;
     padding:10px;
 }
+
+/*portfolio row 2 spacing*/
 #row2 {
     margin-top: 40px;
     padding-bottom: 30px;
