@@ -72,6 +72,9 @@ form {
     color: silver;
     padding: 20px;
     margin-top: 28px;
+    max-width: 950px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /*box for form*/
@@ -86,4 +89,14 @@ form {
 #row2 {
     margin-top: 40px;
     padding-bottom: 30px;
+}
+
+.col-sm-8 {
+    margin-right:0;
+    margin-left:0;
+}
+
+h4 {
+    padding-left: 20px;
+    padding-top: 20px;
 }
